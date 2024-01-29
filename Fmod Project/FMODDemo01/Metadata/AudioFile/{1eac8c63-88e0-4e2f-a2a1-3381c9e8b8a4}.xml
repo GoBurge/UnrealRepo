@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1eac8c63-88e0-4e2f-a2a1-3381c9e8b8a4}">
+		<property name="assetPath">
+			<value>FluffyThump01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.087</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e350fe18-8f8e-45e2-8c74-7cce14cfcf02}</destination>
+		</relationship>
+	</object>
+</objects>

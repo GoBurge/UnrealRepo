@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e90799ca-5d85-49de-a8ea-38c8a25402b9}">
+		<property name="assetPath">
+			<value>Toys08.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>3.1462500000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e350fe18-8f8e-45e2-8c74-7cce14cfcf02}</destination>
+		</relationship>
+	</object>
+</objects>

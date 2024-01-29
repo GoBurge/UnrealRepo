@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{70c328e4-7fd9-48c9-b773-d992219332cf}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../Unreal Projects/G421_Roll-a-Ball/Burge_RollABall_00/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{3fcfec73-c5cd-4cc1-bf5a-4b088dc0a759}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{a7969190-9e0e-42e6-bcbe-ebc05be687cf}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{42e7ff88-f3b3-40ae-89d4-e3eaa5033636}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{d9931f72-7240-4f4a-b19c-93f6b13cb71e}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{79f14d11-7c68-4b5c-825a-290bfa36fcd7}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{994b7a4b-9f3c-40c4-a1ad-42aca2960c8a}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{e350fe18-8f8e-45e2-8c74-7cce14cfcf02}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{df14cdd4-1931-4b4d-90c2-7e4533eb547f}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{bb85559d-08fe-4b6c-8f8a-78b94d6f5626}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{fe907774-0e16-4fcd-8a62-be6e228fd6de}</destination>
+		</relationship>
+	</object>
+</objects>
